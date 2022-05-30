@@ -1,0 +1,11 @@
+header{
+    height: 100px;
+    background-image: url("header2.jpg");
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    color: rgb(21,22,19);
+    background-color: rgb(66, 97, 128);
+}
